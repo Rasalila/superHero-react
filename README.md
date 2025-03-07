@@ -12,6 +12,3 @@ HTML, CSS, JS, React
 
 * можно поставить герою личную оценку и сохранить значение в localStorage.
 
-## Результат:
-
-<a href="https://rasalila.github.io/superHero-react/">Посмотреть здесь</a>
